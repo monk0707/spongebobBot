@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .container{
+    flex: col;
+}
+
+.spongebobHeading{
+    font-size: xx-large;
+    font: bold;
+    justify-content: space-around;
+    margin: 0 20px;
+}
+
+.spongebobImg{
+    width: 300px;
+    justify-content: space-around;
+}
+
+.container2{
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.countVariable{
+    margin: 8px 0;
+}
+
+.coin{
+    width: 15px;
+    margin-top: -4px;
+} */
